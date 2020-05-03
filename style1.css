@@ -1,0 +1,445 @@
+html{
+    
+}
+body{
+    
+}
+
+h2{
+    
+}
+
+
+#preeti{
+    width: 80px;
+    height: 30px;
+    border-radius:5px;
+    color: black;
+    background-color:white;
+    box-shadow: 6px 6px 6px 0px #000000;
+    
+    
+    font-size: 12p;
+    font-weight: bold;
+    
+}
+#preetii{
+    width: 80px;
+    height: 30px;
+    border-radius:5px;
+    color: black;
+    background-color:white;
+    box-shadow: 6px 6px 6px 0px #000000;
+    
+    
+    font-size: 12p;
+    font-weight: bold;
+    
+}
+#preetiii{
+    width: 80px;
+    height: 30px;
+    border-radius:5px;
+    color: black;
+    background-color:white;
+    box-shadow: 6px 6px 6px 0px #000000;
+    
+    
+    font-size: 12p;
+    font-weight: bold;
+    
+}
+
+.header-outer {
+	width: 100%;
+	
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left:0px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.header-outer .header {
+	width: 100%;
+	max-width: 1180px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.header-outer .header .header-left {
+    float: left;
+}
+.header-outer .header .header-left .header-left-logo {
+    float: left;
+}
+.header-outer .header .header-left .header-left-text {
+    border-left: 1px solid #000;
+    float: left;
+    margin-left: 20px;
+    
+    padding-left: 15px;
+}
+.header-outer .header .header-left .header-left-text p.hindi {
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+element.style {
+    margin-bottom: 5px;
+}
+
+.clear {
+    clear: both;
+}
+#headerrighttext {
+    text-align: right;
+    font-family: arial;
+    font-size: 14px;
+    text-align: right;
+    font-weight: bold;
+    margin-left: 80px;
+}
+#headerrighttext1 {
+    font-family: arial;
+    font-size: 12px;
+    padding-top: 5px;
+    text-align: right;
+}
+#rightlogo {
+    float: left;
+}
+#english {
+    float: left;
+    margin-top: 35px;
+    margin-right: 5px;
+}
+
+#bg{
+    background-color: radial-gradient(aquamarine,black);
+}
+#swa{
+    width: 100%;
+    height: 80px;
+    border-style: groove;
+    border-color: black;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-radius: 2px;
+    line-height: 45px;
+   margin-top: 80px;
+    margin-bottom: 0px;
+   overflow: hidden;
+    
+}
+
+
+#pat{
+    width: 100%;
+    height: 80px;
+    border-style:groove;
+    border-color: black;
+    border-top-width: 0px;
+    border-bottom-width:2px ;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    overflow: hidden;
+    border-radius: 2px;
+
+line-height: 45px;
+    
+   
+}
+
+#tel{
+    width: 100%;
+    height: 80px;
+    border-style: groove;
+    border-color: black;
+    border-top-width: 0px;
+    border-bottom-width: 2px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-radius: 2px;
+    line-height: 45px;
+    overflow: hidden;
+    
+
+}
+#ayu:hover{
+    cursor: pointer;
+}
+#sh:hover{
+    cursor: pointer;
+}
+#ku:hover{
+    cursor: pointer;
+}
+.sem1:hover{
+    cursor: pointer;
+}
+.sem2:hover{
+    cursor: pointer;
+}
+.sem3:hover{
+    cursor: pointer;
+}
+.sem4:hover{
+    cursor: pointer;
+}
+.sem5:hover{
+    cursor: pointer;
+}
+.sem6:hover{
+    cursor: pointer;
+}
+.sem7:hover{
+    cursor: pointer;
+}
+.sem8:hover{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.banner {
+     background:darkGreen;
+    opacity: 0.6;
+    color: white;
+  
+  margin-top:5%;
+  text-align: center;
+ position: absolute;
+    
+    border-radius: 15px;
+   
+    box-shadow: 10px 10px 10px 0px grey;
+
+  width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+  padding: 10px;
+  height: 400px; /* Should be removed. Only for demonstration */
+}
+.bannnr {
+     background:darkGreen;
+    opacity: 0.6;
+    color: white;
+  
+  margin-top:5%;
+  text-align: center;
+ position: absolute;
+    
+    border-radius: 15px;
+   
+    box-shadow: 10px 10px 10px 0px grey;
+
+  width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+  padding: 10px;
+  height: 400px; /* Should be removed. Only for demonstration */
+}
+
+.bannerr {
+     background:darkGreen;
+    opacity: 0.6;
+    color: white;
+  
+  margin-top:5%;
+  text-align: center;
+ 
+    position: absolute;
+    border-radius: 15px;
+   
+    box-shadow: 10px 10px 10px 0px grey;
+position: absolute;
+  width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+
+
+
+
+.bgimage {
+    
+  float: left;
+  width: 65%;
+  padding: 10px;
+  height: 400px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 1200px) {
+  .banner {
+    width: 50%;
+      margin-right: 25%;
+        margin-left:25%;
+     
+  }
+    .bannerr {
+    width: 30%;
+      margin-right: 35%;
+        margin-left:35%;
+     
+  }
+    
+     .bannnr{
+    width: 60%;
+        height: 400px;
+        margin-left: 20%;
+        margin-right:20%;
+        margin-top:60px;
+      
+    }
+    
+    .header{
+        height: 150px;
+    }
+    #english{
+        width: 70%;
+    }
+    #right-logo{
+        float:right;
+    }
+    .emblem{
+        float:right;
+        width:100%;
+    }
+    .headerrighttext{
+        float:left;
+        
+    }
+    .headerrighttext1{
+        float:left;
+    }
+    .header-right{
+        width: 50%;
+        float: right;
+        padding-top: 0px;
+        display: none;
+    }
+    .header-left{
+        width: 100%;
+        height: 150px;
+    margin-bottom: 10px;
+    }
+    .header-left-logo{
+        width: 20%;
+    }
+    .header-left-text{
+        width:60%;
+        height: 150px;
+        overflow: hidden;
+    margin: 0px;
+        padding-bottom: 5px;
+    }
+    
+
+    
+}
+@media screen and (max-width: 800px) {
+  .banner {
+    width: 60%;
+    margin-right: 20%;
+        margin-left:20%;
+  }
+
+     .bannerr {
+    width: 40%;
+    margin-right: 30%;
+        margin-left:30%;
+  }
+    
+   
+}
+
+@media screen and (max-width: 600px) {
+  .banner {
+    width: 80%;
+      margin-left: 10%;
+          margin-right: 10%;
+    
+  }
+    .bannerr {
+    width: 60%;
+      margin-left: 20%;
+          margin-right: 20%;
+    }
+    
+    
+    .bannnr{
+    width: 90%;
+        height: 350px;
+        margin-left: 5%;
+        margin-right:5%;
+        margin-top:60px;
+      
+    }
+    .resize{
+        width: 100%;
+    }
+    .header{
+        height: 80px;
+    }
+    .header-right{
+        display: none;
+    }
+    .header-left{
+        width: 100%;
+        height: 80px;
+    margin-bottom: 10px;
+    }
+    .header-left-logo{
+        width: 40%;
+        margin-left: 30%;
+        margin-right: 30%;
+       
+    }
+    .header-left-text{
+        display: none;
+        
+    margin: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    .header-left-text > .hindi{
+        display:none;}
+        
+    
+.header-left-text > .p{
+    margin:0px;
+    
+}
+    .small{
+        font-size:16px;
+    }
+}
+
+a:hover{
+    cursor: pointer;
+}
